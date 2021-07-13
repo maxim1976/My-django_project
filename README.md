@@ -1,1 +1,1 @@
-# My-django_project
+# My_django_project
